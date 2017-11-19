@@ -1,3 +1,4 @@
+//const debug = true
 const debug = false
 const webpack = require('webpack')
 const path = require('path')
